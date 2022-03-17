@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JakGor - AGH UST Master's Degree Student 🎓
 - 👀 I’m interested in data science (analysis and machine learning) 📊
 - 🌱 I’m currently sharpening my skills in python 🐍
-- 💞️ I’m looking to start a new job 💼
+- 💞️ I’m looking forward to start a new job 💼
 - 📫 How to reach me -> LinkedIn: https://www.linkedin.com/in/jgorowski/
 
 <!---
